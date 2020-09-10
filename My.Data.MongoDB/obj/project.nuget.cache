@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ENWevbL4JSNmyrcEDSCJ932OM/d1+x8GXsfl4Sk9pDpDHcybnI7cAjPeUR4AIJb8X3KmAu0O6RBz9cOzY10rA==",
+  "success": true,
+  "projectFilePath": "D:\\Repo_Steve\\SolutionMy\\My.Data.MongoDB\\My.Data.MongoDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steve.oh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\steve.oh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
