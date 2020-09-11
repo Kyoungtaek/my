@@ -1,0 +1,5 @@
+D:\Repo_Steve\SolutionMy\My.Core\bin\Debug\netstandard2.0\My.Core.deps.json
+D:\Repo_Steve\SolutionMy\My.Core\bin\Debug\netstandard2.0\My.Core.dll
+D:\Repo_Steve\SolutionMy\My.Core\obj\Debug\netstandard2.0\My.Core.csprojAssemblyReference.cache
+D:\Repo_Steve\SolutionMy\My.Core\obj\Debug\netstandard2.0\My.Core.AssemblyInfoInputs.cache
+D:\Repo_Steve\SolutionMy\My.Core\obj\Debug\netstandard2.0\My.Core.AssemblyInfo.cs

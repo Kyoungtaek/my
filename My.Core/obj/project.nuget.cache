@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xPrwMGItWft42dKWDRYfxFb5A3gZpSEFD+dkTediM0JGgOKc2d7No7Hsb08bAy7zP8G//BxXq7JjFdFnH5urCA==",
+  "dgSpecHash": "QiQG7I8DNFUH8VskYUPzlMqMhegVomD+oayr7mDg2TZ/goVVxAdphxhtBm+gKwrkJSBwkrufY7HX95KNnlNACQ==",
   "success": true,
   "projectFilePath": "D:\\Repo_Steve\\SolutionMy\\My.Core\\My.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve.oh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\steve.oh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\steve.oh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\steve.oh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\steve.oh\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,8 +1,13 @@
-﻿using System;
+﻿using My.Core.Repositories;
+using System;
+using System.Threading.Tasks;
 
 namespace My.Core
 {
-    public class Class1
+    public interface IUnitOfWork: IDisposable
     {
+        IMusicRepository Musics { get; }
+        IArtistRepository Artists { get; }
+        Task<int> CommitAsync();
     }
 }
