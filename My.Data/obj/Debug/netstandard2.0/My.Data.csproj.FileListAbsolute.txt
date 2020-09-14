@@ -1,0 +1,5 @@
+D:\Repo_Steve\SolutionMy\My.Data\bin\Debug\netstandard2.0\My.Data.deps.json
+D:\Repo_Steve\SolutionMy\My.Data\bin\Debug\netstandard2.0\My.Data.dll
+D:\Repo_Steve\SolutionMy\My.Data\obj\Debug\netstandard2.0\My.Data.csprojAssemblyReference.cache
+D:\Repo_Steve\SolutionMy\My.Data\obj\Debug\netstandard2.0\My.Data.AssemblyInfoInputs.cache
+D:\Repo_Steve\SolutionMy\My.Data\obj\Debug\netstandard2.0\My.Data.AssemblyInfo.cs
